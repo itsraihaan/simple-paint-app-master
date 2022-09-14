@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Simple Paint App</string>
+
+    <string name="colour_picker_header">Choose a colour</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="button_select">Select</string>
+
+    <string name="rationale_header">Permission required</string>
+    <string name="text_description">Storage access is needed to save or share images.</string>
+    <string name="button_allow">Allow</string>
+</resources>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorRim">#ececec</color>
+    <color name="colorCustom">?colorButtonNormal</color>
+    <color name="colorCustomFocused">#BDBDBD</color>
+    <color name="colorCustomDisabled">#CDCECECE</color>
+
+    <color name="colorGrey">#838383</color>
+    <color name="colorPink">#eda1c1</color>
+    <color name="colorGreen">#83b582</color>
+    <color name="colorBlueyGreen">#3c9099</color>
+    <color name="colorPurple">#39375b</color>
+    <color name="colorBlue">#87a8d0</color>
+    <color name="colorGreenyBlue">#7393a7</color>
+    <color name="colorOrange">#f6ad7b</color>
+    <color name="colorPinkyPurple">#ce97d2</color>
+    <color name="colorRed">#e66060</color>
+    <color name="colorYellow">#e0c03f</color>
+    <color name="colorBlueyPurple">#505f8f</color>
+    <color name="colorBlack">#3d3d3b</color>
+    <color name="colorMintyBlue">#80c8d1</color>
+    <color name="colorWhite">#ececec</color>
+
+</resources>

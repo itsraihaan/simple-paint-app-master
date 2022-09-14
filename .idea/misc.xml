@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/mohmmed raihaan/AndroidStudioProjects/2021-simple-paint-app-master/app/src/main/res/drawable-v24/ic_color_lens_black_24dp.xml" value="0.1375" />
+        <entry key="..\:/Users/mohmmed raihaan/AndroidStudioProjects/2021-simple-paint-app-master/app/src/main/res/drawable-v24/ic_redo_black_24dp.xml" value="0.1375" />
+        <entry key="..\:/Users/mohmmed raihaan/AndroidStudioProjects/2021-simple-paint-app-master/app/src/main/res/drawable-v24/rounded_button_disabled.xml" value="0.1375" />
+        <entry key="..\:/Users/mohmmed raihaan/AndroidStudioProjects/2021-simple-paint-app-master/app/src/main/res/drawable-v24/rounded_button_focus.xml" value="0.1375" />
+        <entry key="..\:/Users/mohmmed raihaan/AndroidStudioProjects/2021-simple-paint-app-master/app/src/main/res/drawable-v24/rounded_button_no_focus.xml" value="0.1375" />
+        <entry key="..\:/Users/mohmmed raihaan/AndroidStudioProjects/2021-simple-paint-app-master/app/src/main/res/drawable/circle_button.xml" value="0.1375" />
+        <entry key="..\:/Users/mohmmed raihaan/AndroidStudioProjects/2021-simple-paint-app-master/app/src/main/res/drawable/circle_button_no_focus.xml" value="0.1375" />
+        <entry key="..\:/Users/mohmmed raihaan/AndroidStudioProjects/2021-simple-paint-app-master/app/src/main/res/drawable/ic_done_white_24dp.xml" value="0.1375" />
+        <entry key="..\:/Users/mohmmed raihaan/AndroidStudioProjects/2021-simple-paint-app-master/app/src/main/res/drawable/pen_size_circle.xml" value="0.1375" />
+        <entry key="..\:/Users/mohmmed raihaan/AndroidStudioProjects/2021-simple-paint-app-master/app/src/main/res/layout/activity_colour_picker_dialog.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/mohmmed raihaan/AndroidStudioProjects/2021-simple-paint-app-master/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/mohmmed raihaan/Downloads/2021-simple-paint-app-master/app/src/main/res/drawable-v24/colour_circle.xml" value="0.2205" />
+        <entry key="..\:/Users/mohmmed raihaan/Downloads/2021-simple-paint-app-master/app/src/main/res/drawable/circle_button.xml" value="0.2205" />
+        <entry key="..\:/Users/mohmmed raihaan/Downloads/2021-simple-paint-app-master/app/src/main/res/drawable/erase.xml" value="0.2205" />
+        <entry key="..\:/Users/mohmmed raihaan/Downloads/2021-simple-paint-app-master/app/src/main/res/layout/activity_colour_picker_dialog.xml" value="0.1" />
+        <entry key="..\:/Users/mohmmed raihaan/Downloads/2021-simple-paint-app-master/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/mohmmed raihaan/Downloads/2021-simple-paint-app-master/app/src/main/res/layout/erase.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
